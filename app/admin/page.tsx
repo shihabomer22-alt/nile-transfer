@@ -1,7 +1,7 @@
 "use client";
-import { AdminPanel } from "@/components/AdminPanel";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
+import { AdminPanel } from "../../components/AdminPanel";
+import { Header } from "../../components/Header";
+import { Footer } from "../../components/Footer";
 import { useSearchParams } from "next/navigation";
 import type { Lang } from "@/lib/i18n";
 

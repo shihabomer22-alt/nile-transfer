@@ -1,6 +1,6 @@
 "use client";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
+import { Header } from "../../components/Header";
+import { Footer } from "../../components/Footer";
 import { WHATSAPP_NUMBER } from "@/lib/constants";
 import { t, type Lang } from "@/lib/i18n";
 import { useSearchParams } from "next/navigation";

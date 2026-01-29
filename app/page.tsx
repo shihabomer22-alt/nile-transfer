@@ -1,6 +1,6 @@
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
-import { RateTable } from "@/components/RateTable";
+import { Header } from "../components/Header";
+import { Footer } from "../components/Footer";
+import { RateTable } from "../components/RateTable";
 import { BUSINESS_COUNTRIES, PAYOUT_METHODS, WHATSAPP_NUMBER } from "@/lib/constants";
 import { t, type Lang } from "@/lib/i18n";
 
